@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319273820028",
+    "project_id": "meena-b86f5",
+    "storage_bucket": "meena-b86f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319273820028:android:5e380f1b86588aff75cef9",
+        "android_client_info": {
+          "package_name": "com.meena.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319273820028-uebdmhagpccmcngecqhokeqpednjc0v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvu-1QlUktfossBuhWeYVhxNjfTCpc6uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319273820028-uebdmhagpccmcngecqhokeqpednjc0v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
