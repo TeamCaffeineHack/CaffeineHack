@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026266692019",
+    "project_id": "the-second-chapter",
+    "storage_bucket": "the-second-chapter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026266692019:android:5883006e1bffe8a7eb73c6",
+        "android_client_info": {
+          "package_name": "com.TeamCaffeine.the_second_chapter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026266692019-hdvuoffh77fp2eputi4lc25oevadu468.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsnCfR2b74WHXpyFL3WybSbIeXGEFAqGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026266692019-hdvuoffh77fp2eputi4lc25oevadu468.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
